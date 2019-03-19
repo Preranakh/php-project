@@ -1,0 +1,95 @@
+body
+{
+	margin:0;
+	height:100%;
+}
+.singin
+{
+	position:fixed;
+	z-index:1;
+	left:0px;
+	padding:30px;
+	background:#F7F9F9;    
+	width:95.5%;
+	height:3px;
+	top:0px;
+	padding-top:13px;
+	box-shadow:0px 0px 1px 0px #424949;
+}
+
+.singin pro
+{
+	position:relative;
+	font-size:20px;
+	font-family:"Trebuchet MS", Helvetica, sans-serif;
+	color:black;
+}
+.singin button
+{
+	position:relative;
+	background-color:#3498DB;
+	color:white;
+	border-radius:7px;
+	top:-10px;
+	left:1000px;
+	height:38px;
+	width:100px;
+	cursor:pointer;
+	font-family:"Trebuchet MS", Helvetica, sans-serif;
+}
+.vertical
+{
+	position:fixed;
+	z-index:1;
+	top:47px;
+	height:650px;
+	background:#1C1818;
+	width:250px;
+	color:white;
+	font-family:"Trebuchet MS", Helvetica, sans-serif;
+	font-size:16px;
+}
+.vertical po
+{
+	color:#848B9D;
+	position:relative;
+	left:30px;
+        font-family:"Trebuchet MS", Helvetica, sans-serif;
+        cursor:pointer;
+}
+.vertical po:hover
+{
+	color:white;
+}
+.vertical po pi
+{
+	color:white;
+}
+a
+{
+	text-decoration:none;
+	color:#848B9D;
+}
+a:hover
+{
+	color:white;
+}
+.vertical button
+{
+	position:relative;
+	left:25px;
+	height:45px;
+	width:200px;
+	background-color:#1C1818;
+	color:#848B9D;
+	cursor:pointer;
+	border-radius:7px;
+	font-family:"Trebuchet MS", Helvetica, sans-serif;
+	font-size:15px;
+	border-color:#848B9D;
+}
+.vertical button:hover
+{
+	background-color:#3498DB;
+	color:white;
+}
